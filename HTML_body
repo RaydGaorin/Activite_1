@@ -11,12 +11,4 @@
       <a href="#"><img src="assets/img/side2.jpg" alt="Notre ambition"></a>
     </nav>
 
-    <footer>
-      <a class="btn btn-primary" href="#"><i class="fa fa-twitter fa-2x"></i></a>
-      <a class="btn btn-primary" href="#"><i class="fa fa-facebook fa-2x"></i></a>
-      <a class="btn btn-primary" href="#"><i class="fa fa-google-plus fa-2x"></i></a>
-      <a class="btn btn-primary" href="#"><i class="fa fa-flickr fa-2x"></i></a>
-      <a class="btn btn-primary" href="#"><i class="fa fa-spotify fa-2x"></i></a>
-    </footer>
-
   </body>
